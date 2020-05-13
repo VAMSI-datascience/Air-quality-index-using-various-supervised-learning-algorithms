@@ -1,3 +1,3 @@
 # Air-quality-index-prediction
 
-[View the air quality prediction prediction](https://airqualityindexpred.herokuapp.com/)
+[Click here to View the air quality prediction prediction of bangalore in realtime](https://airqualityindexpred.herokuapp.com/)
