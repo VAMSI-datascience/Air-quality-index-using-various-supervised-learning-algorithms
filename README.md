@@ -14,3 +14,42 @@
 
 + The above represents the data descrition that we are working on and gives the insight of the data set which we are extracting..
 
+++ The dataset comprises of data from 2 websites, one is from the above mentioned another is from the paid thirdparty api..
+++ The data we are using is from 2013 to 2019 that is the pm2.5 value and we are downloading this data from third party api and it is paid one and there is a folder called AQI in our repository where the data collected can be seen..
+
+++ In the second part of our data collection, as we can see that the pm2.5 values are given in a hourly basis and the data we are extracting is in daily basis.. The target for us is we need to find the avg value of the pm2.5 for 24 hours and make it as its daily value.. And that part can be seen in the plot.py file in the repo..
+
+++ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Regression Evaluation Metrics
+Here are three common evaluation metrics for regression problems:
+
+Mean Absolute Error (MAE) is the mean of the absolute value of the errors:
+
+$$\frac 1n\sum_{i=1}^n|y_i-\hat{y}_i|$$
+Mean Squared Error (MSE) is the mean of the squared errors:
+
+$$\frac 1n\sum_{i=1}^n(y_i-\hat{y}_i)^2$$
+Root Mean Squared Error (RMSE) is the square root of the mean of the squared errors:
+
+$$\sqrt{\frac 1n\sum_{i=1}^n(y_i-\hat{y}_i)^2}$$
+Comparing these metrics:
+
+MAE is the easiest to understand, because it's the average error.
+MSE is more popular than MAE, because MSE "punishes" larger errors, which tends to be useful in the real world.
+RMSE is even more popular than MSE, because RMSE is interpretable in the "y" units.
+
