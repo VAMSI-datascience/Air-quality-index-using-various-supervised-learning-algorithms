@@ -23,8 +23,11 @@
 + And finally we are training our dataset and applying the best algorithm in order to get the better accuracy..we are training the following models..
 
 **1 Randomforest model**
+
 **2 Knearest neighbours**
+
 **3 Decision tress**
+
 **4 Xgboost classifier**
 
 + For each and every alogorithm, exploratory data analysis has been performed and is mentioned with their respective **.pynb** notebooks..
@@ -36,7 +39,8 @@
 ![brgijb](https://user-images.githubusercontent.com/51853466/82566643-d8ee0300-9b99-11ea-8092-89d268a30e10.PNG)
 
 + And finally we have used **Flask Framework** for deploying it in the cloud platforms.. and we have used **Heroku** cloud platform for deploying the web application and this is executed by the **app.py** file and the **requirements.txt** and the **procfile** has been mentioned as web application..
-[Click here to View the sample web app prediction prediction of bangalore](https://airqualityindexpred.herokuapp.com/)
+
+[Click here to View the sample web app prediction of bangalore and click predict](https://airqualityindexpred.herokuapp.com/)
 
 
 
