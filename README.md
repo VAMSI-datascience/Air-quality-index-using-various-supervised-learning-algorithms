@@ -21,7 +21,17 @@
 
 + In the **third** part what we are doing is we are a tool called **Beautifulsoup** in order the extract the information we need from the website and finally we are combining our both the datasets and forming it as independent and the dependent features and combining to form a single dataset for our model prediction..And that part is shown in the combine.py file..
 
-+ And finally we are training our dataset and applying the best algorithm in order to get the better accuracy..
++ And finally we are training our dataset and applying the best algorithm in order to get the better accuracy..we are training the following models..
+
+**1 Randomforest model**
+**2 Knearest neighbours**
+**3 Decision tress**
+**4 Xgboost classifier**
+
++ For each and every alogorithm, exploratory data analysis has been performed and is mentioned with their respective **.pynb** notebooks..
+
++ And out of all the classifiers **Randomforest classifier** outperformed all the other models in terms of accuracy and
+and we have saved it as **pickle** file for our model deployment..
 
 
 
