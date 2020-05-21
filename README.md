@@ -1,4 +1,4 @@
-# Air-quality-index-prediction
+# Webapp for Air quality index using various supervised learning algorithms... 
 
 
 [This is the website where we are web scrapping the real time data for our quality index prediction](https://en.tutiempo.net/)
@@ -41,6 +41,10 @@
 + And finally we have used **Flask Framework** for deploying it in the cloud platforms.. and we have used **Heroku** cloud platform for deploying the web application and this is executed by the **app.py** file and the **requirements.txt** and the **procfile** has been mentioned as web application..
 
 [Click here to View the sample web app prediction of bangalore and click predict](https://airqualityindexpred.herokuapp.com/)
+
+![jyty](https://user-images.githubusercontent.com/51853466/82567386-ebb50780-9b9a-11ea-9863-6836b8302be9.PNG)
+
++ This is how a webapp prediction looks like... 
 
 
 
