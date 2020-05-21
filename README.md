@@ -1,6 +1,5 @@
 # Air-quality-index-prediction
 
-[Click here to View the air quality prediction prediction of bangalore in realtime](https://airqualityindexpred.herokuapp.com/)
 
 [This is the website where we are web scrapping the real time data for our quality index prediction](https://en.tutiempo.net/)
 
@@ -30,24 +29,16 @@
 
 + For each and every alogorithm, exploratory data analysis has been performed and is mentioned with their respective **.pynb** notebooks..
 
-+ And out of all the classifiers **Randomforest classifier** outperformed all the other models in terms of accuracy and
-and we have saved it as **pickle** file for our model deployment..
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
++ And out of all the classifiers **Randomforest classifier** outperformed all the other models in terms of accuracy and MAE, MSE, RMSE etc..and we have saved it as **pickle** file for our model deployment..
 
 ## Regression Evaluation Metrics
+
+![brgijb](https://user-images.githubusercontent.com/51853466/82566643-d8ee0300-9b99-11ea-8092-89d268a30e10.PNG)
+
++ And finally we have used **Flask Framework** for deploying it in the cloud platforms.. and we have used **Heroku** cloud platform for deploying the web application and this is executed by the **app.py** file and the **requirements.txt** and the **procfile** has been mentioned as web application..
+[Click here to View the sample web app prediction prediction of bangalore](https://airqualityindexpred.herokuapp.com/)
+
+
+
+
 
