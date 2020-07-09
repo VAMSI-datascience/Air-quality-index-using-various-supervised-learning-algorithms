@@ -40,13 +40,13 @@
 
 + And finally we have used **Flask Framework** for deploying it in the cloud platforms.. and we have used **Heroku** cloud platform for deploying the web application and this is executed by the **app.py** file and the **requirements.txt** and the **procfile** has been mentioned as web application..
 
-[Click here to View the sample web app prediction of bangalore and click predict](https://airqualityindexpred.herokuapp.com/)
+[Click here to View the sample web app prediction of bangalore and click predict](https://airqualityindexpred.herokuapp.com/)- **DISCLAIMER** Link undergoing some issues try below steps.
 
 ## How to run the project?
 
-1. Install all the libraries mentioned in the [requirements.txt](https://github.com/kishan0725/Movie-Recommendation-System-with-Sentiment-Analysis/blob/master/requirements.txt) file.
+1. Install all the libraries mentioned in the [requirements.txt]
 2. Clone this repository in your local system.
-3. Open the command prompt from your project directory and run the command `python main.py`.
+3. Open the command prompt from your project directory and run the command `app.py`.
 4. Go to your browser and type `http://127.0.0.1:5000/` in the address bar.
 5. Hurray! That's it.
 
